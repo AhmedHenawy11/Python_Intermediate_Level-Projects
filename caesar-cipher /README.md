@@ -1,1 +1,0 @@
-# An Ecryption & Decryption Algorithm
